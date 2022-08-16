@@ -14,4 +14,4 @@
  - Play video games 
  
 ## Extra Curriculars
- -Play Soccer
+ - Play Soccer
