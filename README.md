@@ -3,4 +3,4 @@ Hi my name is Leonardo Rosriguez and this is my portfolio for Intro to software 
 
 ## Contents
 - [Resume](RESUME.md)
-- [Binary Logic](Binary-Logic.md)
+- [Binary Logic](Binary-Logic)
