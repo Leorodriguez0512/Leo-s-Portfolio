@@ -15,3 +15,7 @@
  
 ## Extra Curriculars
  - Play Soccer
+
+## Typing 
+-Keys Learned
+- K, J, I, U, E, F, G, H
