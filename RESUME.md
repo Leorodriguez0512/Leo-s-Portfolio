@@ -18,4 +18,4 @@
 
 ## Typing 
 -Keys Learned
-- K, J, I, U, E, F, G, H
+- J, F, U, R K, D, E, I
